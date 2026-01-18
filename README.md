@@ -1,6 +1,8 @@
 # SimplyBudget
 
-A comprehensive iOS budget tracking application developed as part of the IB Diploma Programme Computer Science Internal Assessment. SimplyBudget helps users manage their daily expenses across multiple categories with intuitive visualizations and analytics.
+A comprehensive iOS budget tracking application that I independently designed and developed as my IB Diploma Programme Computer Science Internal Assessment project. SimplyBudget helps users manage their daily expenses across multiple categories with intuitive visualizations and analytics.
+
+> **Note**: This project was entirely my own work—from concept to implementation. The IB Diploma Programme required that I document my development process through various criteria (planning, design, development, evaluation), but the project idea, design decisions, and all code were created by me.
 
 ## 📱 Demo Video
 
@@ -116,7 +118,7 @@ SimplyBudget/
 
 ## 📚 IB Diploma Programme Documentation
 
-This project was completed as part of the IB Computer Science Internal Assessment. The following documentation provides detailed information about the development process:
+As part of the IB Computer Science Internal Assessment requirements, I documented my entire development process. The IB curriculum requires students to demonstrate their work through structured documentation—the project itself and all design decisions were entirely my own. The following documents detail my planning, design, development, and evaluation process:
 
 ### Planning & Design
 - **[Planning Document](Documentation/Crit_A_Planning.pdf)** - Initial project planning and requirements analysis
@@ -130,13 +132,14 @@ This project was completed as part of the IB Computer Science Internal Assessmen
 
 ## 🎯 Key Learning Outcomes
 
-This project demonstrates:
+Through independently developing this project, I demonstrated:
 - **iOS Development**: Native iOS app development using Swift and UIKit
 - **Data Persistence**: CoreData integration for local data storage
 - **Data Visualization**: Complex chart implementations using DGCharts
 - **MVC Architecture**: Proper separation of concerns in iOS development
 - **User Interface Design**: Custom UI components and gesture-based navigation
-- **Project Management**: Structured development following IB criteria
+- **Problem Solving**: Identifying a real-world need and creating a solution from scratch
+- **Project Management**: Self-directed development with structured documentation
 
 ## 📝 Notes
 
@@ -147,7 +150,7 @@ This project demonstrates:
 
 ## 🤝 Contributing
 
-This is a portfolio project from my IB Diploma Programme. While contributions are welcome, please note that this project was completed as part of academic coursework.
+This is a portfolio project showcasing my independent work for the IB Diploma Programme. While contributions are welcome, please note that the original project was entirely my own work, completed as part of academic coursework where I was required to document my process.
 
 ## 📄 License
 
@@ -156,9 +159,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Gabriel Castillo**
-- IB Diploma Programme Computer Science Internal Assessment
-- Developed as part of the International Baccalaureate curriculum
+
+I independently conceived, designed, and developed this application as my IB Diploma Programme Computer Science Internal Assessment. The IB curriculum required me to document my development process, but all aspects of the project—from the initial concept to the final implementation—were my own original work.
 
 ---
 
-*This project was developed as part of the IB Diploma Programme Computer Science Internal Assessment, demonstrating proficiency in software development, problem-solving, and technical documentation.*
+*This project showcases independent software development, problem-solving, and technical documentation skills developed through the IB Diploma Programme Computer Science curriculum.*
